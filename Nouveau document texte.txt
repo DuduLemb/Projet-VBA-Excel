@@ -1,0 +1,22 @@
+
+
+
+cote  caisse:
+	.ajouter,modifier,supprimer les reservations
+	.modifier le statut de reservation d'une table
+	.enregistrer les commandes pour une table
+	.generer factures et imprimer
+
+cote administrateur:
+	historique des ventes(stock)
+
+
+page de connexion
+page d'accueil(consommateur,stocke,reservation,caisse)
+consommateur(propositions,rang restaurant,presentation produit,liste des clients)
+reservation(ajout,modification,suppression)(numreserv,nomclient,numtel,numtable,nombplace)(table)
+stock(table boisson,table ingredient,table plat)
+caisse(enregistrer au fur et a mesure en fonction de la table)
+
+
+
